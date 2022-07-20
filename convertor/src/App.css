@@ -1,0 +1,34 @@
+.app {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  width: 100vw;
+  height:100vh;
+  background-color: rgba(11, 136, 136, 0.945);
+
+}
+.center-div{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  
+}
+.center{
+  border: black 10px solid;
+}
+.elem{
+  color: black;
+  height: 50px;
+  width: 200px;
+  font-size: large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.input_elem{
+  height: 50px;
+  width: 200px;
+  text-align: center;
+  font-size: large;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
